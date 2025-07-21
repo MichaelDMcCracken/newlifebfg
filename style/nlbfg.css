@@ -165,3 +165,24 @@ i {
         font-weight: 600;
         font-family: 'Arboria', sans-serif;
 }
+
+hr {
+    width: 30%;
+    margin: 2rem auto;
+    border-top: #2C3E50 1px solid;
+    
+}
+
+p {
+    font-family: 'Arboria', sans-serif;
+    font-weight: 400;
+}
+
+.outline {
+    display: grid;
+    grid-template-columns: 15fr 40fr 15fr;
+    width: 70%;
+    margin: 1rem auto;
+    row-gap: 1rem;
+    column-gap: 0.5rem;
+}
