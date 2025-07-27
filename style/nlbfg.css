@@ -186,3 +186,7 @@ p {
     row-gap: 1rem;
     column-gap: 0.5rem;
 }
+
+ul li {
+    list-style-type: none;
+}
